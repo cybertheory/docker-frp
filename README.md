@@ -11,6 +11,7 @@ Docker image for [fatedier/frp](https://github.com/fatedier/frp).
 * latest
 * v0.65.0
 * v0.65.0
+* v0.65.0
 * v0.64.0
 * v0.64.0
 * v0.64.0
